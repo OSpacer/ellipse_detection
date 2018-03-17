@@ -1,5 +1,5 @@
-# ellipse_detection
-Ellipse Detection
+# Ellipse Detection
+Ellipse Detection for Graduation Project (UNFINISHED)
 
 ## Anaconda 
     Install Anaconda(python 3.6 version): https://www.anaconda.com/download/
