@@ -26,8 +26,13 @@ Set the python environment to Anaconda new envs(OpenCV):
     2. File-Settins-Project-Project Interpreter
     3. select the PATH where you install python envs, such as`C:\Users\username\Anaconda3\envs\OpenCV\python.exe`
     
-Configure PyQt5 in PyCharm:
+Configure PyQt5 in PyCharm: https://www.jianshu.com/p/094928ac0b73
     
-    Reference: https://www.jianshu.com/p/094928ac0b73
-    1. '配置QtDesigner'
-    2. '配置PyUIC'
+    1. 配置QtDesigner
+    2. 配置PyUIC
+
+## Run the code
+Open Terminal in Anaconda or PyCharm
+```Bash
+python Display.py
+```
